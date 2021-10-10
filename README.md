@@ -2,7 +2,7 @@
 Share media events over a websocket connection
 
 ## What to see it in action?
-Check on our DEMO
+Check on our [DEMO](https://mediasocket.vercel.app/)
 
 Focus on your frontend code and the websocket takes care of the rest for you :)
 
